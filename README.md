@@ -4,9 +4,10 @@
 
 **Assistant Professor of Economics | Kırıkkale University**
 
-[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Mehmet-Goekhan-Oezdemir)
-[![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com)
-[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=ORCID&logoColor=white)](https://orcid.org)
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Mehmet-Oezdemir-14)
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?hl=tr&sortby=pubdate&user=3FvDhxEAAAAJ)
+[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=ORCID&logoColor=white)](https://orcid.org/0000-0002-6756-7285)
+[![Academia](https://img.shields.io/badge/Academia.edu-41454A?style=for-the-badge&logo=academia&logoColor=white)](https://kirikkaleturkey.academia.edu/MehmetGokhanOzdemir)
 
 </div>
 
@@ -89,9 +90,10 @@ academic_research_hub/
 |----------|------|
 | 🏛️ Institution | Kırıkkale University, Dept. of Economics Theory |
 | 📧 E-mail | mgozdemirera@gmail.com |
-| 📝 ResearchGate | [Profile](https://www.researchgate.net) |
-| 📖 Google Scholar | [Publications](https://scholar.google.com) |
-| 🆔 ORCID | [ORCID ID](https://orcid.org) |
+| 📝 ResearchGate | [Mehmet Gökhan Özdemir](https://www.researchgate.net/profile/Mehmet-Oezdemir-14) |
+| 📖 Google Scholar | [Publications](https://scholar.google.com/citations?hl=tr&sortby=pubdate&user=3FvDhxEAAAAJ) |
+| 🆔 ORCID | [0000-0002-6756-7285](https://orcid.org/0000-0002-6756-7285) |
+| 🎓 Academia.edu | [Kırıkkale University](https://kirikkaleturkey.academia.edu/MehmetGokhanOzdemir) |
 
 ---
 
